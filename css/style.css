@@ -1,0 +1,74 @@
+a {
+    color: white;
+}
+
+a:hover {
+	color: #A39E9C;
+}
+
+.texto{
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#linkabsoluto{
+	/*color: white;*/
+	text-align: center;
+}
+
+#texto{
+	margin: 0;
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+}
+
+body{
+	background-color: #E5A532;
+}
+
+#lista{
+	background: #343a40;
+}
+
+#texto-contato{
+	margin: 0;
+	padding-top: 60px;
+	color: white;
+	text-align: center;
+}
+
+.texto-login{
+	padding-top: 290px;
+	color: white;
+	margin: 0;
+	text-align: center;
+}
+
+.form-control{
+	width: 40%;
+	padding: 10px 50px;
+	margin-left: 2%;
+}
+
+	/*label não funcionou (queria por as palavras que ficam em cima das barras mais pra direita para ficar alinhado)*/
+.label{
+	display: inline-block;
+	margin-bottom: .5rem;
+	padding-left: 2%;
+	margin-left: 2%;
+}
+
+.btn{
+    cursor: pointer;
+    margin-left: 0;
+}
+
+/*#texto-inspirar{
+	padding-bottom: 10%;
+}*/
+
+.letra{
+	font-family: 'Lobster', cursive;
+}
